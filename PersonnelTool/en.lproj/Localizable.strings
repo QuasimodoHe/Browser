@@ -1,0 +1,71 @@
+/* 
+  Localizable.strings
+  PersonnelTool
+
+  Created by  Quan He on 2018/1/27.
+  Copyright © 2018年 gd. All rights reserved.
+*/
+"完成"="Completion";
+"取消"="Return";
+"快捷键管理"="Button Mgt";
+"快捷键"="Shortcut Key";
+"输入网址"="Input Url Here";
+"取消1"="Return";
+"名称"="Title";
+"请输入名称"="Plase input title";
+"请输入网址"="Plase input Url";
+"设为主页"="Home";
+"添加"="Add";
+"选择日期"="Date";
+"老黄历"="HuangAlmanac";
+"您暂未设置主页"="You have not set up the home url";
+"推送设置"="Notifica Setting";
+"返回"="Return";
+"设置"="Setting";
+"删除"="Delete";
+"目标网址"="Target Url";
+"通知管理"="Notification";
+"标题不能为空"="The title can not be empty";
+"网络地址不能为空"="Network address can not be empty";
+"时间不能在现在之前哦！请重新修改时间"="Time can't be before now!Please revise the time.";
+"提醒时间"="Time";
+"重复"="Repeat";
+"永不重复"="Never repeating";
+"确认添加"="Confirm Add";
+"确认修改"="Confirm Modification";
+"确定"="Sure";
+"每天重复"="Repeat every day";
+"每周重复"="Repeat every week";
+"每月重复"="Repeat every month";
+"标题"="Title";
+"网址"="Url";
+"网址和名称不能为空！"="URL and title can not be empty!";
+"修改成功"="Modification success";
+"添加成功"="Add success";
+"添加导航"="Add navigation";
+"修改导航"="Modify navigation";
+"网址添加"="URL add";
+"不能输入空的网址哦！"="can't enter the empty URL!";
+"添加"="Add";
+"推送提醒添加成功"="Push reminder add success";
+"推送提醒修改成功"="Push reminding revise success";
+"推送提醒已关闭"="Push alert has been closed";
+"清除缓存中..."="Clearing the cache...";
+"清除缓存"="Clear";
+"1yindao"="1yindaoyingwen";
+"2yindao"="2yindaoyingwen";
+"3yindao"="3yindaoyingwen";
+"4yindao"="4yindaoyingwen";
+"5yindao"="5yindaoyingwen";
+"6yindao"="6yindaoyingwen";
+
+
+"X1yindao"="X1yindaoyingwen";
+"X2yindao"="X2yindaoyingwen";
+"X3yindao"="X3yindaoyingwen";
+"X4yindao"="X4yindaoyingwen";
+"X5yindao"="X5yindaoyingwen";
+"X6yindao"="X6yindaoyingwen";
+
+
+"网页加载失败，检查网络连接状态或者尝试刷新网页"="Web page load failed,you can check network connection status,or try to refresh the web page.";
